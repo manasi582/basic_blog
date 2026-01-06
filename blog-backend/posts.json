@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1767707001760",
+    "title": "Test Post 3001",
+    "author": "Anonymous",
+    "content": "This is a test post on port 3001",
+    "excerpt": "This is a test post on port 3001...",
+    "created_at": "2026-01-06T13:43:21.760Z"
+  },
+  {
+    "id": "1767707752629",
+    "title": "Rich Post Test",
+    "author": "QA Team",
+    "content": "This is a rich post content.",
+    "excerpt": "Rich post excerpt",
+    "category": "business",
+    "gist": "This is a very long gist that should ideally be over 200 characters to pass validation but backend does not validate length so it is fine for this test.",
+    "image": "https://example.com/image.png",
+    "tags": [
+      "test",
+      "rich",
+      "data"
+    ],
+    "keyTakeaways": [
+      "Takeaway 1",
+      "Takeaway 2"
+    ],
+    "isFeatured": true,
+    "isTrending": false,
+    "isBreaking": true,
+    "created_at": "2026-01-06T13:55:52.629Z"
+  },
+  {
+    "id": "1767707937526",
+    "title": "\"We Haven’t Got a Clue\": Ben Stokes on Unpredictable Pitch Before Fifth Ashes Test",
+    "author": "Loren Ipsum",
+    "content": "Pitch Remains a Mystery Ahead of Final Test\n\nEngland captain Ben Stokes has openly admitted that his side has very little idea about how the pitch will behave for the fifth and final Ashes Test. Despite inspecting the surface, Stokes acknowledged that predicting pitch behavior has become increasingly difficult, even for seasoned international players. The uncertainty reflects how modern Test pitches can change quickly depending on weather, preparation, and match conditions. Stokes remarked that teams often believe they can judge a pitch by its appearance, but the reality is very different once play begins. What may look like a batting-friendly wicket can suddenly offer movement for fast bowlers or assistance for spinners as the match progresses. This unpredictability has added complexity to pre-match planning and preparation.\n\n\n\nSelection Dilemmas for England\n\nThe uncertainty surrounding the pitch has had a direct impact on England’s team selection. The management is still debating the ideal bowling combination, unsure whether conditions will favor pace or spin. England are considering multiple options, knowing that the wrong call could significantly affect their chances in the match. As a result, the final XI is likely to be decided close to the toss.\n\n\n\nAustralia Equally Watchful\n\nAustralia, who have already secured the Ashes by winning the opening Tests of the series, are also being cautious. The hosts have delayed announcing their playing XI as they closely monitor the pitch and conditions. Despite holding the Ashes, Australia are keen to finish the series strongly and maintain their dominance at home.\n\n\n\nImportance Beyond the Ashes Result\n\nAlthough the Ashes outcome is already decided, Stokes emphasized that the final Test remains important. He highlighted that representing England always carries responsibility and pride, regardless of the series situation. The team is determined to compete hard, show resilience, and end the tour with a strong performance.\n\n\n\nFocus on Adaptability and Mindset\n\nStokes underlined the need for adaptability, stressing that success in the match will depend on how quickly players adjust to conditions once the game starts. With both teams entering the Test without clear answers about the pitch, flexibility in tactics and mindset could prove decisive over the five days.",
+    "excerpt": "England skipper Ben Stokes has admitted uncertainty over how the pitch will behave ahead of the fifth and final Ashes Test, with conditions expected to play a key role in team selection and match tactics.",
+    "category": "sports",
+    "gist": "Ahead of the fifth and final Ashes Test, England captain Ben Stokes has openly admitted that the team has little clarity on how the pitch will behave, underlining the unpredictability of conditions. With Australia already retaining the Ashes, the uncertainty adds another layer of challenge for England as they look to end the series on a competitive note. The nature of the surface is expected to influence final team combinations, bowling strategies, and batting approach, making adaptability cruci",
+    "image": "",
+    "tags": [
+      "AshesTest",
+      "AUG vs ENG",
+      "TestCricket",
+      "BenStokes",
+      "MatchPreview"
+    ],
+    "keyTakeaways": [
+      "Ben Stokes admitted there is no clear understanding of how the pitch will behave for the fifth Ashes Test.",
+      "Adaptability to conditions is expected to be a deciding factor in the match outcome."
+    ],
+    "isFeatured": false,
+    "isTrending": true,
+    "isBreaking": false,
+    "created_at": "2026-01-06T13:58:57.526Z"
+  }
+]
