@@ -5,7 +5,11 @@
     { "src": "my-blog/package.json", "use": "@vercel/static-build", "config": { "distDir": "build" } }
   ],
   "routes": [
+    { "src": "/api/health/?$", "dest": "/blog-backend/api/health.js" },
+    { "src": "/api/posts/?$", "dest": "/blog-backend/api/posts/index.js" },
+    { "src": "/api/posts/([^/]+)/?$(?:.*)", "dest": "/blog-backend/api/posts/[id].js" },
     { "src": "/api/(.*)", "dest": "/blog-backend/api/$1.js" },
+    { "src": "^/$", "dest": "/my-blog" },
     { "src": "/(.*)", "dest": "/my-blog/$1" }
   ]
 }
