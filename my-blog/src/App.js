@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Plus, Edit2, Trash2, Eye, Calendar, User, AlertCircle } from 'lucide-react';
 
-const API_URL = 'http://localhost:3001/api';
+const API_URL = process.env.NODE_ENV === 'development' ? 'http://localhost:3001/api' : '/api';
 
 export default function BlogWebsite() {
   const [posts, setPosts] = useState([]);
